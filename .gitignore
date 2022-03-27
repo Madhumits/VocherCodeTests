@@ -1,0 +1,12 @@
+
+# Node artifact files
+node_modules/
+dist/
+/build
+.npmrc
+npm-debug.log
+package-lock.json
+
+# Cypress
+cypress/videos
+cypress/screenshots
